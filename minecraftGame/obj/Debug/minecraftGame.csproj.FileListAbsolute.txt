@@ -1,0 +1,40 @@
+U:\Projeto DS\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csprojResolveAssemblyReference.cache
+U:\Projeto DS\minecraftGame\minecraftGame\obj\Debug\minecraftGame.MainForm.resources
+U:\Projeto DS\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csproj.GenerateResource.Cache
+U:\Projeto DS\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe.config
+U:\Projeto DS\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe
+U:\Projeto DS\minecraftGame\minecraftGame\bin\Debug\minecraftGame.pdb
+U:\Projeto DS\minecraftGame\minecraftGame\obj\Debug\minecraftGame.exe
+U:\Projeto DS\minecraftGame\minecraftGame\obj\Debug\minecraftGame.pdb
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe.config
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\bin\Debug\minecraftGame.pdb
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csprojResolveAssemblyReference.cache
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\obj\Debug\minecraftGame.MainForm.resources
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csproj.GenerateResource.Cache
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\obj\Debug\minecraftGame.exe
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraftGame\minecraftGame\obj\Debug\minecraftGame.pdb
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe.config
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\bin\Debug\minecraftGame.pdb
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csprojResolveAssemblyReference.cache
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\obj\Debug\minecraftGame.MainForm.resources
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csproj.GenerateResource.Cache
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\obj\Debug\minecraftGame.exe
+U:\Projeto DS\minecraftGame\minecraftGame\minecraftGame\obj\Debug\minecraftGame.pdb
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csprojResolveAssemblyReference.cache
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\obj\Debug\minecraftGame.MainForm.resources
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csproj.GenerateResource.Cache
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\obj\Debug\minecraftGame.exe
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe.config
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\bin\Debug\minecraftGame.pdb
+C:\Users\fabri\OneDrive\Documentos\Programação\Projetos - C#\minecraft\minecraftGame\minecraftGame\obj\Debug\minecraftGame.pdb
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe.config
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\bin\Debug\minecraftGame.exe
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\bin\Debug\minecraftGame.pdb
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\obj\Debug\minecraftGame.MainForm.resources
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\obj\Debug\minecraftGame.csproj.GenerateResource.Cache
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\obj\Debug\minecraftGame.exe
+C:\Users\fabri\Downloads\minecraftGame\minecraftGame\obj\Debug\minecraftGame.pdb
